@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background: rgb(72 4 32);
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table thead {
+    background: black;
+    color: white;
+    font-size: 25px;
+}
+
+table tbody {
+    background: rgb(207 207 207);
+    font-size: 15px;
+}
+
+table th {
+    font-family: 'Rakkas', cursive;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    color: white;
+}
+
+tr td {
+    text-align: center;
+}
+
+tr button {
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
